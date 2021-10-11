@@ -6,14 +6,15 @@ Hangman is a paper and pencil guessing game for two or more player. One player t
 # Rules
 
 For solo play:
-  Open start_game.rb in scripts in console
-  Press "enter" to set random word
+1.  Open start_game.rb in scripts in console
+2.  Press "enter" to set random word
 
 For 2:
-  Open start_game.rb in scripts in console
-  One player set the word and press "enter"
-  Second player trying to win
+1.  Open start_game.rb in scripts in console
+2.  One player set the word and press "enter"
+3.  Second player trying to win
 
-And last, but not value - have fun!
+#### And last, but not value - have fun!
 
-If you want to change|add words to lib just put them in data/words_for_script.txt file (with new string separator)
+## Custom words
+If you want to change|add words to lib just put them in data/words_for_script.txt file (with new string as separator)
